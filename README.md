@@ -1,6 +1,7 @@
 ## Seja Bem-Vindo ao Meu Mundo!
 
-![](https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif)
+![Git Homer](https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif)
+
 --------------------
 
 😎 Olá, me chamo Everson A. Ferreria!
