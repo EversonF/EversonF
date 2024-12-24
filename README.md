@@ -6,7 +6,7 @@
 
 😎 Olá, me chamo Everson A. Ferreria!
 
-💬 Sou estudante de Ciências da Computação, futuro desenvolvedor FullStack.
+💬 Bacharel em Ciências da Computação, pela Universidade Estácio de Sá de Belo Horizonte.
 
 📫[Acesse o meu Linkedin](https://www.linkedin.com/in/everson-araujo-ferreira-637185206/)
 
